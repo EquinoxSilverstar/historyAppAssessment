@@ -8,7 +8,9 @@ This then directs the age to the historical figure list within the switch statem
 
 The report also explores version control because of the potential utilization of GitHub and GitHub actions which has given an automated testing in the assessment. The design considerations have enhanced the app to have age input resilience that allows the students to use the app's features, giving them an option to enter their age to receive an output result of the age input they have provided. Although there is a limit to age range increase, which starts from 20 to 100 for each mysterious historical figure. If that condition is not met, then an error handling I added will make the app execute a error Handling to showcase that it is invalid age input, for example, if ages are outside 20 to 100 range.  
 
- 
+ ![Screenshot 2024-04-03 175513](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/e375a0c5-58c8-4d2b-b905-9b51ca68d44f)
+![Screenshot 2024-04-03 175621](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/b19520ef-8092-46b3-af0c-c032307e2fc1)
+
 
 This is a number that is way lower than 20 and is displayed as the same error as the one on right hand side that shows 900 greater than 100. Giving us an invalid message to tell us that it's wrong and needs the right ages. I also provided a clear and informed error in the text view which leads the students towards putting the right valid input of the figures from 20 to 100. If they ever think of putting incorrect values such as twenty-three or %$^ undeclared valuables. This will motivate them to try again with integers  
 
