@@ -2,7 +2,7 @@ The Aging History: An Educational Mobile application
 
 In this report, it details the main purpose, design considerations, and the carrying out of the Aging History. A mobile app that is designed to engage students with the history of well-known historical figures we all love such as Nelson Mandela, Jesus Christ, Bruce Lee and many others just by inputting your age from 20 to 100 to get a brief history of what that historical figure and what they have done in their lives to be so historically known from their deaths.  There are some examples of what it would display, which the switch statements will demonstrate. 
 
- 
+ ![Screenshot 2024-04-03 134931](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/a071402e-86b2-421e-8e2c-139172428bcd)
 
 This then directs the age to the historical figure list within the switch statement of numbers from 20 to 100.  
 
