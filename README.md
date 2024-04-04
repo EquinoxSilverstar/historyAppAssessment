@@ -12,14 +12,14 @@ The report also explores version control because of the potential utilization of
 ![Screenshot 2024-04-03 175621](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/b19520ef-8092-46b3-af0c-c032307e2fc1)
 
 
-This is a number that is way lower than 20 and is displayed as the same error as the one on right hand side that shows 900 greater than 100. Giving us an invalid message to tell us that it's wrong and needs the right ages. I also provided a clear and informed error in the text view which leads the students towards putting the right valid input of the figures from 20 to 100. If they ever think of putting incorrect values such as twenty-three or %$^ undeclared valuables. This will motivate them to try again with integers  
+This is a number that is way lower than 20 and is displayed as the same error as the one on right hand side that shows 900 greater than 100. Giving us an invalid message to tell us that it's wrong and needs the right ages. I also provided a clear and informed error in the text view which leads the students towards putting the right valid input of the figures from 20 to 100. If they ever think of putting incorrect values such as twenty-three or %$^ undeclared valuables. This will motivate them to try again with integers. 
 
  
 ![Screenshot 2024-04-03 180159](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/de271457-450d-4908-a2b7-81fb9fb31516)
  
 ![Screenshot 2024-04-03 180252](https://github.com/EquinoxSilverstar/historyAppAssessment/assets/164300157/c6acaff1-74a7-4829-b455-479c628289c2)
 
-The clear button is to refresh the input from the list. This can also match the name of each historical figure, such as showcasing an interesting historical background about the figure to enlighten the continuation of the student to explore the user friendly experience, making history learning likable and open for access. The app will ignite students' interests by the comparison of their favorite historical figures and with understandable age milestones. This will make students gain an enjoyable understanding of these figures that will display when generated. I recommend teachers from private institutions, public schools and online courses to inform their students about The Aging History app because of how much it will be a useful tool to use to remember each event of history quicker. Here's an Aging History App step by step guide for students to learn how to get and use the Aging History app. We will outline how students can effectively learn from the Aging History app and maximize their educational experience. 
+This can also match the name of each historical figure, such as showcasing an interesting historical background about the figure to enlighten the continuation of the student to explore the user friendly experience, making history learning likable and open for access. The app will ignite students' interests by the comparison of their favorite historical figures and with understandable age milestones. This will make students gain an enjoyable understanding of these figures that will display when generated. I recommend teachers from private institutions, public schools and online courses to inform their students about The Aging History app because of how much it will be a useful tool to use to remember each event of history quicker. Here's an Aging History App step by step guide for students to learn how to get and use the Aging History app. We will outline how students can effectively learn from the Aging History app and maximize their educational experience. 
 
 Step 1: They must download and install the app from our website or on the online stores. Simply search for "Aging History" on the website and follow the prompts to download and install the app on your mobile device. 
 
@@ -43,11 +43,8 @@ By following these step-by-step instructions, students can effectively engage wi
 
 In conclusion, Aging History has potential to be useful to students as an educational tool. By merging the user interfaces with well structured age comparison mechanics, that makes you enjoy learning about the history of people. 
 
-The references: I used for history of the historical figures is Http//www.Britannia.com and Https//www.gcis.gov.za. where I have found accessible sources such as a code fixer called SinCode.com, that provided editing within my code and error removals and IIE SharePoint IMAD manual module to refer back to the notes that makes the app run accordingly. This is also the link to my YouTube video on how the app runs https://youtu.be/KppUWPT5oe8?si=zysBX6uhYJzeXj-Q this video presentation. I showcase how it works as I fully brief believable outcome of each output. 
+The references: I used for history of the historical figures is Http//www.Britannia.com and Https//www.gcis.gov.za. where I have found accessible sources such as a code fixer called SinCode.com, that provided editing within my code and error removals and IIE SharePoint IMAD manual module to refer back to the notes that makes the app run accordingly. This is also the link to my YouTube video on how the app runs https://www.youtube.com/watch?v=DyLITGZQ50U&error=0in this video presentation. I showcase how it works as I fully brief believable outcome of each output. 
 
   
 
  
-
-
-
